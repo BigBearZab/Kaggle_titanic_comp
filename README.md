@@ -1,5 +1,5 @@
 # Kaggle_titanic_comp
-My first forray into making a kaggle submission, using the infamous Titanic challange
+My first forray into making a kaggle submission, using the infamous Titanic challange. Accuracy of submission: 0.74641
 
 Structure:
 Data processing must be completed first so that the models will actually work correctly. There is then a logistical regression and random forest model modelling survival on the data available in at 70:30 train to test split. This was to check if one model performed better. Surprisingly both models gave the same results. 
